@@ -1,0 +1,2 @@
+# coreaz
+Comic Reader AtoZ
